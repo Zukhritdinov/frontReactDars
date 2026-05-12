@@ -1,0 +1,13 @@
+.btn {
+    width: 10%;
+    height: 7vh;
+    background-color: green;
+    color: white;
+    border-radius: 15px;
+}
+
+.btn:hover {
+    background-color: white;
+    color: green;
+    border: 1px solid green;
+}
